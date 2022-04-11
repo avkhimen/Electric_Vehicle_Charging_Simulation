@@ -17,7 +17,7 @@ stats_output_with_v2g.py and stats_output_no_v2g.py are used to generate statist
 
 Requrements:
 
-- numpy\
-- pandas\
-- tqdm\
+- numpy
+- pandas
+- tqdm
 - argprase
