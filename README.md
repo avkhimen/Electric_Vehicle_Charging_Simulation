@@ -2,6 +2,8 @@
 
 To run the simulation make sure the AESO_2020_demand_price.csv file is in the same directory as the simulation.py file.
 
+See the report [here](https://github.com/avkhimen/Electric_Vehicle_Charging_Simulation/blob/main/final_report.pdf). 
+
 To run use:
 
 ```
